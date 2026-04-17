@@ -1,4 +1,3 @@
-### **Meta & SEO Information**
 
 **Meta Title:** GetKirkify — Free Charlie Kirk AI Meme Generator (No Watermark)  
 **Meta Description:** Create the iconic Charlie Kirk 'Tiny Face' swap meme in seconds. 100% free, no watermarks, no sign-up required. The fastest AI Kirkify tool online. Try it now.
