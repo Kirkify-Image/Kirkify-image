@@ -5,7 +5,7 @@
 👉 **[Kirkify My Photo For Free](https://www.getkirkify.com)**  
 📄 **[Try It Now — No Account Needed](https://www.getkirkify.com)**
 
-> Also building: **[Share IP](https://shareip.app/)** — a lightweight Android IP-sharing utility for Wi-Fi, 4G, and 5G connections.
+> Also building: **[ClipLumi](https://cliplumi.com/)** — an AI photo editor for focused changes with natural-language instructions.
 
 ---
 
@@ -72,61 +72,92 @@ Don't let your memes be dreams. Turn normal people into legends in seconds.
 
 ---
 
-# **Share IP — Share Your Android IP Across Networks**
+# **ClipLumi — Edit Existing Images with Natural-Language Instructions**
 
-Sometimes the useful thing on a phone is not a file or an app — it is the **network connection itself**. **[Share IP](https://shareip.app/)** is an Android utility designed to make IP sharing simpler across Wi-Fi, 4G, and 5G connections without forcing users through complicated network configuration.
+Most AI image tools start from a blank canvas: type a prompt, generate a new image, and hope it lands close to what you want. **[ClipLumi](https://cliplumi.com/)** is built for a different job — **editing an image you already have while preserving the parts you want to keep**.
 
-👉 **[Open Share IP](https://shareip.app/)**  
-📱 **[Download Share IP on Google Play](https://play.google.com/store/apps/details?id=app.shareip)**
+Upload a photo, describe what should change and what must stay the same, add reference images when they help, then refine the result with model and output controls. The workflow is designed for focused revisions instead of throwing away a useful source image and starting over.
 
-## **Why Share IP?**
+👉 **[Try ClipLumi AI Photo Editor](https://cliplumi.com/ai-image-editor)**  
+🖼️ **[Explore ClipLumi Image Templates](https://cliplumi.com/image-templates)**
 
-A phone can be connected to a network or IP path that another device needs to reach, but mobile networking often adds friction. Different Wi-Fi networks, carrier networks, NAT, and changing connections can make a simple “use this device's IP” task more complicated than expected.
+## **Why ClipLumi? Editing Is a Different Problem from Generation**
 
-Share IP focuses on reducing that setup friction:
+Generating a new image and editing an accepted image are not the same task. If you already like the face, pose, product, lighting, composition, or scene, a full regeneration can introduce unwanted drift. A small requested change can accidentally alter details that were already correct.
 
-* **🔐 Secure sharing** — Share IP is designed to share the connection through the app while keeping transmitted data private.
-* **⚡ Easy setup** — Install the Android app and follow the in-app connection flow instead of manually configuring a complicated network stack.
-* **📶 Wi-Fi, 4G, and 5G support** — The official product page is built around sharing an IP regardless of whether the Android device is using Wi-Fi or mobile data.
-* **🚀 Low-friction connectivity** — The product is optimized for practical IP sharing with minimal latency.
-* **🧭 More connection controls are planned** — The official site lists connection management, time limits, and instant revocation as coming-soon functionality.
+ClipLumi is designed around a preserve-first workflow: **state the edit, state what must remain stable, and review the changed area before polishing everything else**. That makes it useful when consistency matters more than producing another random variation.
 
-## **When Is Share IP Useful?**
+## **What You Can Do with ClipLumi**
 
-### **1. Accessing a connection from another device**
-If an Android phone already has the network path you need, Share IP can provide a simpler way to make that connection available to another device instead of rebuilding the same network environment elsewhere.
+The current editor and template library support a range of practical image-editing workflows:
 
-### **2. Testing across mobile networks**
-Developers, testers, and technically curious users sometimes need to see how a service behaves through a particular mobile or Wi-Fi connection. Share IP is useful when the goal is to reuse the Android device's connection rather than reproduce that environment manually.
+* **✍️ Prompt-based photo editing** — Describe the requested change in natural language instead of manually painting masks or managing layers.
+* **🌄 Background replacement** — Change the setting while keeping the main subject intact.
+* **🧹 Object and distraction removal** — Remove unwanted objects or background people and reconstruct the surrounding scene.
+* **🧩 Composition changes** — Rework framing or scene composition without starting from an empty canvas.
+* **✨ Photo enhancement** — Improve an existing image while preserving the identity and intent of the source.
+* **👕 Outfit edits** — Change clothing while keeping pose and identity stable.
+* **🛍️ Product photography** — Turn a source product image into a cleaner catalog or promotional visual.
+* **🧑‍💼 Professional headshots** — Restyle portraits for clearer, more formal profile imagery.
+* **🏠 Room redesign** — Replace furniture or visual styling while respecting perspective and lighting.
+* **🕰️ Old photo restoration** — Improve damaged or low-quality photos without intentionally changing the people or moment.
 
-### **3. Sharing access with people you trust**
-The official site describes sharing an IP with friends, family, or colleagues while maintaining control over access. As with any networking tool, only share access intentionally and stop the connection when it is no longer needed.
+ClipLumi also offers guided templates for stylized portraits, holiday cards, album-cover concepts, pop-art treatments, plushie transformations, room redesigns, product photos, old-photo restoration, professional portraits, and other visual edits.
 
-### **4. Avoiding unnecessary network configuration**
-Not every remote-connectivity task needs a large enterprise setup. For a focused personal workflow, a smaller Android utility can be easier to understand and quicker to test.
+## **Use Reference Images When Text Is Not Enough**
 
-## **Privacy: What Share IP Says It Does — and Does Not — Collect**
+Some edits are easier to communicate visually than verbally. ClipLumi currently supports **up to three reference images** in supported workflows.
 
-Networking tools deserve precise privacy language. Share IP's current privacy policy states that it **does not collect, log, or monitor browsing activity, websites visited, or the content transmitted through the VPN connection**.
+References are useful when a style, product presentation, outfit, character look, visual direction, or composition is easier to show than describe. Instead of writing a long prompt for every detail, you can combine a concise instruction with one or more references and then judge whether the result stayed faithful to the source.
 
-That does **not** mean the app collects no operational data at all. The same policy says Share IP may collect information such as connection timestamps and duration, success/failure status, performance and crash data, feature-usage statistics, device information, connection preferences, and account information if a user chooses to create an account.
+The goal is not to add references just because the editor allows them. A reference should carry useful information and help the model understand the intended edit without replacing the parts of the original image that were already working.
 
-That distinction is important: “no browsing logs” and “no telemetry of any kind” are not the same claim. Before using any IP-sharing or remote-connectivity tool for sensitive work, review the current **[Share IP Privacy Policy](https://shareip.app/privacy.html)** and the Google Play data-safety information yourself.
+## **Multiple AI Models, One Editing Workflow**
 
-## **A Practical Way to Try Share IP**
+ClipLumi is not tied to a single image model. The current product exposes several options for image generation and editing, including **GPT Image 2, GPT Image 1.5, FLUX Schnell, Nano Banana 2, Nano Banana 2 Lite, Seedream 5.0 Pro, and Seedream 5.0 Lite**.
 
-1. **Install the Android app** from the official Google Play listing.
-2. **Open Share IP** on the Android device whose connection you want to use.
-3. **Follow the in-app sharing flow** and connect only the device or person you intend to authorize.
-4. **Test with a non-sensitive workflow first** so you can confirm performance and connectivity on your actual Wi-Fi or mobile network.
-5. **Stop sharing when finished** and keep the app and Android device updated.
+Different models can behave differently on prompt adherence, text rendering, reference-image handling, resolution, speed, and visual polish. Having model choice inside one workflow gives users another recovery path when a specific edit needs a different balance of fidelity, speed, or detail.
 
-Mobile and Wi-Fi networks can behave differently depending on carrier, router, NAT, and local restrictions, so a small real-world test is more useful than assuming every connection will behave the same way.
+The interface also exposes controls such as aspect ratio and output settings where supported. The point is not to overwhelm users with model names; it is to make it easier to keep working when one model is not the best fit for a particular image.
 
-## **Share IP Links**
+## **A Practical Preserve-First Workflow**
 
-* 🌐 **Website:** [https://shareip.app/](https://shareip.app/)
-* 📱 **Google Play:** [Download Share IP for Android](https://play.google.com/store/apps/details?id=app.shareip)
-* 🔒 **Privacy:** [Share IP Privacy Policy](https://shareip.app/privacy.html)
+A useful ClipLumi prompt does not need to be long. It needs to be clear about two things: **what changes** and **what stays**.
 
-If you need a lightweight Android tool for sharing an IP connection across networks, start with **[Share IP](https://shareip.app/)** and test it on the exact network you plan to use.
+### **1. Start with the image you actually want to preserve**
+Use the strongest source image available. If the face, product, pose, or composition is already useful, treat those accepted parts as constraints rather than disposable input.
+
+### **2. Ask for one focused change**
+For example: replace the background with a clean studio wall, remove the person behind the subject, change the jacket to a dark blazer, restore scratches while preserving facial identity, or turn a product photo into a white-background catalog image.
+
+### **3. State what must remain unchanged**
+Mention identity, pose, product shape, logo placement, camera angle, lighting direction, facial expression, or any other element that should stay stable. This is often the difference between a useful revision and a beautiful but incorrect regeneration.
+
+### **4. Add references only when they help**
+Use references when they communicate a target style, object, visual direction, or layout more efficiently than text.
+
+### **5. Review preservation before polishing**
+First ask whether the requested area changed correctly and whether accepted parts remained intact. Only after that should you spend time on secondary polish.
+
+## **ClipLumi vs. Rebuilding the Image from Scratch**
+
+If your goal is pure ideation, a blank text-to-image generator can be perfect. But when the starting image already contains value, repeated regeneration can cost both time and consistency.
+
+ClipLumi is most useful when the real request is closer to: **“This image is already mostly right. Change this one thing without damaging the rest.”**
+
+That is a different mindset from “make me another version.” It is closer to revision than generation. For product photos, portraits, branded visuals, room scenes, restored photos, and social creative, the more parts of the source you already approve, the more valuable a preserve-first workflow becomes.
+
+## **No Layers or Masks Required for the Core Workflow**
+
+The current ClipLumi interface presents the core editing flow as a text-prompt workflow rather than a traditional desktop editor that requires manual layers and masks. That lowers the setup cost for people who know the result they want but do not want to perform pixel-level selection work before every edit.
+
+Natural-language editing still benefits from precise instructions. Focused requests and explicit preservation constraints are easier to evaluate than asking for many unrelated transformations in one pass.
+
+## **Useful ClipLumi Links**
+
+* 🌐 **Website:** [https://cliplumi.com/](https://cliplumi.com/)
+* ✨ **AI Photo Editor:** [https://cliplumi.com/ai-image-editor](https://cliplumi.com/ai-image-editor)
+* 🖼️ **Image Templates:** [https://cliplumi.com/image-templates](https://cliplumi.com/image-templates)
+* 💳 **Pricing:** [https://cliplumi.com/pricing](https://cliplumi.com/pricing)
+
+If you already have an image that is mostly right and you want a controlled change instead of rebuilding everything, start with **[ClipLumi](https://cliplumi.com/)** and try one focused edit first.
