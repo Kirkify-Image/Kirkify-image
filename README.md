@@ -5,6 +5,8 @@
 👉 **[Kirkify My Photo For Free](https://www.getkirkify.com)**  
 📄 **[Try It Now — No Account Needed](https://www.getkirkify.com)**
 
+> Also building: **[Share IP](https://shareip.app/)** — a lightweight Android IP-sharing utility for Wi-Fi, 4G, and 5G connections.
+
 ---
 
 ## **Why GetKirkify? Because Your Memes Shouldn't Be Held Hostage.**
@@ -66,3 +68,65 @@ A: For the funniest results, use high-quality, front-facing portraits with good 
 Don't let your memes be dreams. Turn normal people into legends in seconds.
 
 👉 **[Generate My Kirkify Meme Now](https://www.getkirkify.com)**
+
+
+---
+
+# **Share IP — Share Your Android IP Across Networks**
+
+Sometimes the useful thing on a phone is not a file or an app — it is the **network connection itself**. **[Share IP](https://shareip.app/)** is an Android utility designed to make IP sharing simpler across Wi-Fi, 4G, and 5G connections without forcing users through complicated network configuration.
+
+👉 **[Open Share IP](https://shareip.app/)**  
+📱 **[Download Share IP on Google Play](https://play.google.com/store/apps/details?id=app.shareip)**
+
+## **Why Share IP?**
+
+A phone can be connected to a network or IP path that another device needs to reach, but mobile networking often adds friction. Different Wi-Fi networks, carrier networks, NAT, and changing connections can make a simple “use this device's IP” task more complicated than expected.
+
+Share IP focuses on reducing that setup friction:
+
+* **🔐 Secure sharing** — Share IP is designed to share the connection through the app while keeping transmitted data private.
+* **⚡ Easy setup** — Install the Android app and follow the in-app connection flow instead of manually configuring a complicated network stack.
+* **📶 Wi-Fi, 4G, and 5G support** — The official product page is built around sharing an IP regardless of whether the Android device is using Wi-Fi or mobile data.
+* **🚀 Low-friction connectivity** — The product is optimized for practical IP sharing with minimal latency.
+* **🧭 More connection controls are planned** — The official site lists connection management, time limits, and instant revocation as coming-soon functionality.
+
+## **When Is Share IP Useful?**
+
+### **1. Accessing a connection from another device**
+If an Android phone already has the network path you need, Share IP can provide a simpler way to make that connection available to another device instead of rebuilding the same network environment elsewhere.
+
+### **2. Testing across mobile networks**
+Developers, testers, and technically curious users sometimes need to see how a service behaves through a particular mobile or Wi-Fi connection. Share IP is useful when the goal is to reuse the Android device's connection rather than reproduce that environment manually.
+
+### **3. Sharing access with people you trust**
+The official site describes sharing an IP with friends, family, or colleagues while maintaining control over access. As with any networking tool, only share access intentionally and stop the connection when it is no longer needed.
+
+### **4. Avoiding unnecessary network configuration**
+Not every remote-connectivity task needs a large enterprise setup. For a focused personal workflow, a smaller Android utility can be easier to understand and quicker to test.
+
+## **Privacy: What Share IP Says It Does — and Does Not — Collect**
+
+Networking tools deserve precise privacy language. Share IP's current privacy policy states that it **does not collect, log, or monitor browsing activity, websites visited, or the content transmitted through the VPN connection**.
+
+That does **not** mean the app collects no operational data at all. The same policy says Share IP may collect information such as connection timestamps and duration, success/failure status, performance and crash data, feature-usage statistics, device information, connection preferences, and account information if a user chooses to create an account.
+
+That distinction is important: “no browsing logs” and “no telemetry of any kind” are not the same claim. Before using any IP-sharing or remote-connectivity tool for sensitive work, review the current **[Share IP Privacy Policy](https://shareip.app/privacy.html)** and the Google Play data-safety information yourself.
+
+## **A Practical Way to Try Share IP**
+
+1. **Install the Android app** from the official Google Play listing.
+2. **Open Share IP** on the Android device whose connection you want to use.
+3. **Follow the in-app sharing flow** and connect only the device or person you intend to authorize.
+4. **Test with a non-sensitive workflow first** so you can confirm performance and connectivity on your actual Wi-Fi or mobile network.
+5. **Stop sharing when finished** and keep the app and Android device updated.
+
+Mobile and Wi-Fi networks can behave differently depending on carrier, router, NAT, and local restrictions, so a small real-world test is more useful than assuming every connection will behave the same way.
+
+## **Share IP Links**
+
+* 🌐 **Website:** [https://shareip.app/](https://shareip.app/)
+* 📱 **Google Play:** [Download Share IP for Android](https://play.google.com/store/apps/details?id=app.shareip)
+* 🔒 **Privacy:** [Share IP Privacy Policy](https://shareip.app/privacy.html)
+
+If you need a lightweight Android tool for sharing an IP connection across networks, start with **[Share IP](https://shareip.app/)** and test it on the exact network you plan to use.
